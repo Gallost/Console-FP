@@ -1,0 +1,4 @@
+﻿  Console FP.cpp
+C:\Users\Harry\source\repos\Console FP\Console FP\Console FP.cpp(17,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Harry\source\repos\Console FP\Console FP\Console FP.cpp(139,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Console FP.vcxproj -> C:\Users\Harry\source\repos\Console FP\Debug\Console FP.exe
